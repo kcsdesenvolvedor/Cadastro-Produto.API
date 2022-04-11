@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b7f4bb9-6dce-4357-a3f7-d8625642b078": {
+      "ProjectGuid": "4b7f4bb9-6dce-4357-a3f7-d8625642b078",
+      "DisplayName": "CadastroDeProdutos.API",
+      "ColorIndex": 0
+    },
+    "de88d455-aaa5-467e-84e1-9d1d5e5944b9": {
+      "ProjectGuid": "de88d455-aaa5-467e-84e1-9d1d5e5944b9",
+      "DisplayName": "CadastroDeProdutoTeste",
+      "ColorIndex": 1
+    },
+    "06e6d83c-c088-495a-a756-b2d15b783f98": {
+      "ProjectGuid": "06e6d83c-c088-495a-a756-b2d15b783f98",
+      "DisplayName": "Unitario_CadProdutosTeste",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "9ca0fada-f958-442a-a0ef-29225a59268a": {
+      "ProjectGuid": "9ca0fada-f958-442a-a0ef-29225a59268a",
+      "DisplayName": "Integracao_CadProtutosTeste",
+      "ColorIndex": 3
+    },
+    "fb4fd07c-c467-4cfe-a883-559a17da1d7b": {
+      "ProjectGuid": "fb4fd07c-c467-4cfe-a883-559a17da1d7b",
+      "DisplayName": "Integracao_CadProdutoTeste",
+      "ColorIndex": 4
+    },
+    "2c05912d-c4ec-4b11-989f-6543a245f3a8": {
+      "ProjectGuid": "2c05912d-c4ec-4b11-989f-6543a245f3a8",
+      "DisplayName": "Integracao_CadastroProdutoTeste",
+      "ColorIndex": 5
+    },
+    "504bfa56-7dbe-496a-afba-95ca8a45a8b3": {
+      "ProjectGuid": "504bfa56-7dbe-496a-afba-95ca8a45a8b3",
+      "DisplayName": "workflows",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
