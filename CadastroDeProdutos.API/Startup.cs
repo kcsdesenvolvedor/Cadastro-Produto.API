@@ -37,7 +37,8 @@ namespace CadastroDeProdutos.API
             InjectionRepositories(services);
             InjectionServices(services);
             connection = Configuration["ConexaoSqlite:SqliteConnectionString"];
-            services.AddEntityFrameworkSqlite().AddDbContext<DataContext>();
+            services.AddEntityFrameworkSqlite();
+            services.AddDbContext<DataContext>();
             InjectionDb(services);
         }
 

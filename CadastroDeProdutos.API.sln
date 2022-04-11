@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{
 		cadProduto.yml = cadProduto.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracao_CadProdutoTeste", "Integracao_CadProdutoTeste\Integracao_CadProdutoTeste.csproj", "{CE7DEB34-5729-4C28-AFC2-EC5148897110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{06E6D83C-C088-495A-A756-B2D15B783F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06E6D83C-C088-495A-A756-B2D15B783F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06E6D83C-C088-495A-A756-B2D15B783F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7DEB34-5729-4C28-AFC2-EC5148897110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7DEB34-5729-4C28-AFC2-EC5148897110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7DEB34-5729-4C28-AFC2-EC5148897110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7DEB34-5729-4C28-AFC2-EC5148897110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

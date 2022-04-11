@@ -1,3 +1,4 @@
+using CadastroDeProdutos.API;
 using CadastroDeProdutos.API.Infra;
 using CadastroDeProdutos.API.Infra.Repository;
 using CadastroDeProdutos.API.Infra.Repository.Interfaces;

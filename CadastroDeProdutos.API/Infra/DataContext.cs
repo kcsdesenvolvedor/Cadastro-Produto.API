@@ -6,6 +6,15 @@ namespace CadastroDeProdutos.API.Infra
 {
     public class DataContext : DbContext
     {
+        public DataContext()
+        {
+
+        }
+        public DataContext(DbContextOptions<DataContext> options)
+            : base(options)
+        {
+
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite("Filename=cad_Produto.db", options =>
@@ -15,6 +24,6 @@ namespace CadastroDeProdutos.API.Infra
             base.OnConfiguring(optionsBuilder);
         }
 
-        public DbSet<Produto> Produtos { get; set; }
+        public virtual DbSet<Produto> Produtos { get; set; }
     }
 }
